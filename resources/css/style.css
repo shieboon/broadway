@@ -2,15 +2,15 @@ body {
   font-family: Helvetica;
   text-align: center;
 }
-.header {
+.head {
   background-image: url("C:/cygwin64/home/Shie%20Boon/broadway/resources/images/the-flatiron-building.png");
 }
-.header h1 {
+.head h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
-.header a {
+.head a {
   font-size: 18px;
   color: white;
 }
@@ -18,10 +18,14 @@ body {
   font-size: 32px;
   font-weight: bold;
 }
-.mid h3 {
+h3 {
   font-size: 23px;
   font-weight: bold;
 }
-.mid p {
+p {
   font-size 14px;
+}
+.leg-title {
+  background-image: url("C:/cygwin64/home/Shie%20Boon/broadway/resources/images/the-flatiron-building.png");
+  color: white;
 }
