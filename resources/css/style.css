@@ -10,7 +10,7 @@ body {
   font-weight: bold;
   color: white;
 }
-.head a {
+a {
   font-size: 18px;
   color: white;
 }
@@ -28,4 +28,13 @@ p {
 .leg-title {
   background-image: url("C:/cygwin64/home/Shie%20Boon/broadway/resources/images/the-flatiron-building.png");
   color: white;
+}
+.foot {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+.foot a {
+  font-size: 11px;
 }
