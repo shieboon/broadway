@@ -14,3 +14,14 @@ body {
   font-size: 18px;
   color: white;
 }
+.mid h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+.mid h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+.mid p {
+  font-size 14px;
+}
